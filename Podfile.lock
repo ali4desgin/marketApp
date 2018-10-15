@@ -1,0 +1,103 @@
+PODS:
+  - AccountKit (4.35.0)
+  - Alamofire (4.7.3)
+  - CardIO (5.4.1)
+  - Cloudinary (2.4.0):
+    - Alamofire (~> 4.7.2)
+  - FontAwesome.swift (1.4.3)
+  - FontBlaster (4.0.3)
+  - IQKeyboardManagerSwift (6.1.1)
+  - JGProgressHUD (2.0.3)
+  - Kingfisher (4.8.1)
+  - PayPal-iOS-SDK (2.18.1):
+    - PayPal-iOS-SDK/CardIO (= 2.18.1)
+    - PayPal-iOS-SDK/Core (= 2.18.1)
+  - PayPal-iOS-SDK/CardIO (2.18.1):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.18.1)
+  - PryntTrimmerView (2.0.1)
+  - RSLoadingView (1.1.3)
+  - SkyFloatingLabelTextField (3.5.1)
+  - Socket.IO-Client-Swift (13.3.0):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.5)
+  - SteviaLayout (4.2.0)
+  - TextFieldEffects (1.4.0)
+  - WARangeSlider (1.1.1)
+  - YALSideMenu (2.0.1)
+  - YPImagePicker (3.4.0):
+    - PryntTrimmerView (~> 2.0)
+    - SteviaLayout (~> 4.2.0)
+  - ZoomableImageSlider (2.0.2):
+    - Kingfisher
+
+DEPENDENCIES:
+  - AccountKit
+  - Alamofire (~> 4.7)
+  - Cloudinary (~> 2.0)
+  - FontAwesome.swift
+  - FontBlaster
+  - IQKeyboardManagerSwift
+  - JGProgressHUD
+  - PayPal-iOS-SDK
+  - RSLoadingView
+  - SkyFloatingLabelTextField (~> 3.0)
+  - Socket.IO-Client-Swift
+  - Socket.IO-Client-Swift (~> 13.3.0)
+  - Starscream
+  - TextFieldEffects
+  - WARangeSlider
+  - YALSideMenu (~> 2.0)
+  - YPImagePicker
+  - ZoomableImageSlider
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AccountKit
+    - Alamofire
+    - CardIO
+    - Cloudinary
+    - FontAwesome.swift
+    - FontBlaster
+    - IQKeyboardManagerSwift
+    - JGProgressHUD
+    - Kingfisher
+    - PayPal-iOS-SDK
+    - PryntTrimmerView
+    - RSLoadingView
+    - SkyFloatingLabelTextField
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SteviaLayout
+    - TextFieldEffects
+    - WARangeSlider
+    - YALSideMenu
+    - YPImagePicker
+    - ZoomableImageSlider
+
+SPEC CHECKSUMS:
+  AccountKit: 870ccaf5d33facda9408783e28fbe68c5211e069
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  Cloudinary: d87b545d6a5d00c4022bec964839fdaf359d7c53
+  FontAwesome.swift: 4b9ba1e1f3418a626f3ab67b230856ab6eb4860f
+  FontBlaster: f18031f5dde2ce689f5330e7005edfe3c0815957
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  PayPal-iOS-SDK: 10654cd111e911a9807bddb96fae81aacb8e9915
+  PryntTrimmerView: 4260ae497a2f3e1bbfc0b71247eb74ab92bf0490
+  RSLoadingView: c7749afdd455229643e8f34277d0695973a15b1a
+  SkyFloatingLabelTextField: 4cbeece9c3aae97c6019d8fae511cb5b755874f7
+  Socket.IO-Client-Swift: 0afb192a562db90d50e3f7f7421c06925a3f0179
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+  SteviaLayout: 0d2112caea45707695e8c718262c8ea3dd37ef17
+  TextFieldEffects: 4ee41b5216e674d55fb6ac25107bf1af7629176f
+  WARangeSlider: 54b3e0853b8d16c444fd539005901aecee86837d
+  YALSideMenu: 4d6b90ea44dcdded18a99e46b676e4ad51d9c6bb
+  YPImagePicker: 049aa31e2858c63730ace6b6358bba946178dfe3
+  ZoomableImageSlider: 67d67e4f246caad9be9f6be9d73ec87d2b461f92
+
+PODFILE CHECKSUM: a88104d94a736517b445ca43a59cf55eeadad1f9
+
+COCOAPODS: 1.5.3
